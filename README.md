@@ -1,2 +1,2 @@
 # Gestão-em-TI
-Projetos e Exercicios de Programação realizados durante o curdo
+Projetos e Exercicios de Programação realizados durante o curso
